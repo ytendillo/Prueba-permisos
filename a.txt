@@ -1,7 +1,28 @@
 1. Soy el manzatata
-2. maracuyá
+2. melocotón
 3. limon
 4. papaya
-5. aguacate
+5. limon
+6. uva
+7. aguacate
+8. papaya
+9. naranja
+10. fresa
+11. kiwi
+12. cereza
+13. ciruelo
+14. piña
+15. pera
+16. higo
+17. berenjena
+18. pimiento
+19. tomate
+20. cebolla
+21. champiñón
+22. pepino
+23. coliflor
+24. col 
+25. lechuga
+26. lenguado
 
 
