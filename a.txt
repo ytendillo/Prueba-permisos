@@ -1,2 +1,7 @@
-Soy el manzatata
+1. Soy el manzatata
+2. fresa
+3. limon
+4. platano
+5. aguacate
+
 
